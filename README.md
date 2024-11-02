@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @BaeTani3
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning JAVA, RCcar
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#제목 こんにちは。ぺヨンミンです。
+#제목 안녕하세요? 배영민 입니다.
+##제목 Hello, I'm Bae Young Min.
 
 <!---
 BaeTani3/BaeTani3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
