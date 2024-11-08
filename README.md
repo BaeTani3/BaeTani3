@@ -1,5 +1,5 @@
 
-#  こんにちは。ぺヨンミンです。
+<h1 align="center"> こんにちは。ぺヨンミンです。
 <h1 align="center">Hi 👋, I'm YoungMin Bae</h1>
 <h3 align="center">글로벌시스템융합과</h3>
 
